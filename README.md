@@ -10,7 +10,7 @@ This repository contains all the academic and non-academic projects :
 
 3)Cricket Statistics Generator -created in C++ implementing OOPS concpets.
 
-34)Tic-Tac-Toe -created in python
+4)Tic-Tac-Toe -created in python
 
 5)Shareit- created in python implementing concpets of networking.
 
